@@ -1,5 +1,4 @@
 # Text-to-Speech-Converter
-# Netlify-website-clone
 Text-to-Speech Converter developed usig HTML and CSS, and JavaScript.
 <br>
 <br>
